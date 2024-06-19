@@ -44,6 +44,6 @@ This repository hosts the code for our paper titled "Marrying Language Model wit
     cd ./models/inference
     streamlit run streamlit_gui.py
     ```
-    ![](static/images/output.gif)
+![](static/images/output.gif)
 
 
