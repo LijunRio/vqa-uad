@@ -3,7 +3,8 @@
 
 This repository hosts the code for our paper titled "Marrying Language Model with Unsupervised Anomaly Detection".
 
-![Our framework is designed to process questions in conjunction with results from anomaly detection methods aiming to provide clinicians with clear, interpretable responses that render anomaly map analyses more intuitive and clinically actionable.](static/images/teaser.gif)
+![](static/images/teaser.gif)
+*Our framework is designed to process questions in conjunction with results from anomaly detection methods aiming to provide clinicians with clear, interpretable responses that render anomaly map analyses more intuitive and clinically actionable.*
 
 
 ## Dataset Setup
