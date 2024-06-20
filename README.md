@@ -1,7 +1,7 @@
 
-# Marrying Language Model with Unsupervised Anomaly Detection
+# Language Models Meet Anomaly Detection for Better Interpretability and Generalizability
 
-This repository hosts the code for our paper titled "Marrying Language Model with Unsupervised Anomaly Detection".
+This repository hosts the code for our paper titled "Language Models Meet Anomaly Detection for Better Interpretability and Generalizability".
 
 ![](static/images/teaser.gif)
 *Our framework is designed to process questions in conjunction with results from anomaly detection methods aiming to provide clinicians with clear, interpretable responses that render anomaly map analyses more intuitive and clinically actionable.*
